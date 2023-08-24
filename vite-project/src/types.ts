@@ -1,0 +1,1 @@
+export type Tistatus = "Ok" | "Not Ok" | "Pending";
